@@ -46,3 +46,5 @@ https://nextjs.org/learn/basics/data-fetching/request-time
 getStaticPathsとgetStaticPropsは、どちらが先に動くのだろうか？
 asyncだから並列処理？
 return はどこに返される？？
+
+### 8. fallback:true とfalseの違いがわからない。
